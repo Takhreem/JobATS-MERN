@@ -18,11 +18,21 @@ JobATS is a full-stack Applicant Tracking System developed using the MERN stack.
 - MongoDB
 - JWT Authentication
 
-## Project Report
-[Google Drive Project Report](PASTE_YOUR_DRIVE_LINK_HERE)
+## Project Resources
 
-## Demo Video
-[Google Drive Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)
+### Project Report
+
+* JobATS-FSD.pdf
+
+### Demo Videos
+
+* Frontend Demo:[https://drive.google.com/file/d/1RAva4jR9VrZXJwayZ_CpFyIGgHixFd3f/view?usp=sharing]
+* Backend Demo:[https://drive.google.com/file/d/1nCwK0vR060X3kFwljQpFCs0LR_DEcqF-/view?usp=sharing]
+* Complete Project Demo:[https://drive.google.com/file/d/1w0R48jiQ3FGponZQRZZiKONMa49zMs8J/view?usp=sharing]
+
+### Additional Documentation
+
+* Google Drive Folder: [https://drive.google.com/file/d/1HuI6n6M4Leu_EejA7nfwQ0MBJ6CgiPim/view?usp=sharing]
 
 ## Installation
 
